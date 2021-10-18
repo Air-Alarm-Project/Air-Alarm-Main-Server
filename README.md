@@ -1,7 +1,6 @@
 # Air-Alarm-Main-Server
 
 ## 개발환경
-
 - Pycharm, Python 3.9
 - Raspberry Pi
 - Flask
